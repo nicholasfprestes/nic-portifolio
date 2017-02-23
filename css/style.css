@@ -1,0 +1,89 @@
+.navigation {
+  background-color : #000000;
+  }
+
+.robotobrand {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 900;
+  color: #000000;
+  font-size: 30px;
+  
+}
+
+.robototitle {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 900;
+  color: #000000;
+  font-size: 30px;
+  
+}
+
+.roboto550 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 550;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.robototext {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #000000;
+  font-size: 24px;
+  text-align: justify;
+  
+}
+.btn {
+  background-color : #000000;
+  color : #FFFFFF;
+  border-radius: 0px;
+}
+
+.fundopreto {
+  background-color : #000000;
+  color : #FFFFFF;
+  border-radius:0px;
+}
+
+
+#blackspace {
+  font-size: 2px;
+}
+
+
+.page {
+  background-color: #FFFFFF;
+  border-radius: 0px;
+  /* border: 0.1px solid #cccccc;
+  color: #0f0f0f; */
+ 
+}
+
+.some-class
+{
+    border-right:2px solid #000000;/*#A2A2A2;*/
+    height: 100%;
+    border-left:2px solid #000000;/*#A2A2A2;*/
+    height: 100%;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 70vh; /* Thes e two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgresize{
+   max-width:75%;
+   max-height:75%;
+}
